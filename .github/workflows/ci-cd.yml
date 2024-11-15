@@ -24,6 +24,10 @@ jobs:
       run: |
         pytest tests/
 
+    - name: Set MLflow tracking URI
+      run: |
+        export MLFLOW_TRACKING_URI=file://$(pwd)/mlruns
+
     - name: Convert notebook to script and run
       run: |
         jupyter nbconvert --to script train.ipynb
