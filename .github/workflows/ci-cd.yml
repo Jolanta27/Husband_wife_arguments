@@ -24,6 +24,7 @@ jobs:
       run: |
         pytest tests/
 
-    - name: Train models and log to MLflow
+    - name: Convert notebook to script and run
       run: |
+        jupyter nbconvert --to script train.ipynb
         python train.py

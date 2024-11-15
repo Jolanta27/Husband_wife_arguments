@@ -5,3 +5,4 @@ scikit-learn
 mlflow
 pytest
 jupyter
+nbconvert
