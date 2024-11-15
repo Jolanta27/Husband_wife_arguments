@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jolly/Desktop/AI_KURS/ml_project_arguments/mlruns/0/de3f90b276c948ea900fbc3396e33b29/artifacts
+end_time: 1731683321656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de3f90b276c948ea900fbc3396e33b29
+run_name: fun-ray-695
+run_uuid: de3f90b276c948ea900fbc3396e33b29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731683315078
+status: 3
+tags: []
+user_id: jolly

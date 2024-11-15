@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jolly/Desktop/AI_KURS/ml_project_arguments/mlruns/0/75927fa777ab4d01a0321c807ea350c1/artifacts
+end_time: 1731683766553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75927fa777ab4d01a0321c807ea350c1
+run_name: smiling-ant-451
+run_uuid: 75927fa777ab4d01a0321c807ea350c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731683748034
+status: 3
+tags: []
+user_id: jolly

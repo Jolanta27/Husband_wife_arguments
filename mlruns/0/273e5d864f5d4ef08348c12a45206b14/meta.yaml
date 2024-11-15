@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jolly/Desktop/AI_KURS/ml_project_arguments/mlruns/0/273e5d864f5d4ef08348c12a45206b14/artifacts
+end_time: 1731683867651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 273e5d864f5d4ef08348c12a45206b14
+run_name: Linear Regression
+run_uuid: 273e5d864f5d4ef08348c12a45206b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731683864139
+status: 3
+tags: []
+user_id: jolly

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jolly/Desktop/AI_KURS/ml_project_arguments/mlruns/0/790ecdffee214017840cf95b0903787f/artifacts
+end_time: 1731682668265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 790ecdffee214017840cf95b0903787f
+run_name: unique-midge-15
+run_uuid: 790ecdffee214017840cf95b0903787f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731682662768
+status: 3
+tags: []
+user_id: jolly

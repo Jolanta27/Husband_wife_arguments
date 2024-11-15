@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jolly/Desktop/AI_KURS/ml_project_arguments/mlruns/0/93976ebc93af497db8d009647087d001/artifacts
+end_time: 1731683341553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93976ebc93af497db8d009647087d001
+run_name: adorable-bear-100
+run_uuid: 93976ebc93af497db8d009647087d001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731683335226
+status: 3
+tags: []
+user_id: jolly

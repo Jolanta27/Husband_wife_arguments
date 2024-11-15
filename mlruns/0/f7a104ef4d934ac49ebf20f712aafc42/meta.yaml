@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jolly/Desktop/AI_KURS/ml_project_arguments/mlruns/0/f7a104ef4d934ac49ebf20f712aafc42/artifacts
+end_time: 1731683877012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7a104ef4d934ac49ebf20f712aafc42
+run_name: MLP Regressor
+run_uuid: f7a104ef4d934ac49ebf20f712aafc42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731683871982
+status: 3
+tags: []
+user_id: jolly
