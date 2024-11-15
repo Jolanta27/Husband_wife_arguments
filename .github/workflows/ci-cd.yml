@@ -26,7 +26,9 @@ jobs:
 
     - name: Set MLflow tracking URI
       run: |
-        export MLFLOW_TRACKING_URI=file://$(pwd)/mlruns
+        mkdir -p $(pwd)/mlruns
+        chmod -R 777 $(pwd)/mlruns
+        echo "MLFLOW_TRACKING_URI=file://$(pwd)/mlruns" >> $GITHUB_ENV
 
     - name: Convert notebook to script and run
       run: |
