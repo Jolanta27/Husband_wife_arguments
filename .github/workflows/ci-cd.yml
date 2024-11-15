@@ -23,3 +23,7 @@ jobs:
     - name: Run tests
       run: |
         pytest tests/
+
+    - name: Train models and log to MLflow
+      run: |
+        python train.py
