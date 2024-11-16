@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jolly/Desktop/AI_KURS/ml_project_arguments/mlruns/0/a9637594e01e495aaf6984e88b700925/artifacts
+end_time: 1731764866843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9637594e01e495aaf6984e88b700925
+run_name: likeable-duck-500
+run_uuid: a9637594e01e495aaf6984e88b700925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731764840201
+status: 3
+tags: []
+user_id: jolly
