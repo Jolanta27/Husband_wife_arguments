@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Analiza Kłótni Między Małżonkami i Przewidywanie Czasu Trwania Kłótni
 
 ## Opis projektu
@@ -65,3 +66,6 @@ Wyniki modeli zostały zalogowane do MLflow, co umożliwia śledzenie i porówny
    ```sh
    git clone https://github.com/TwojeRepozytorium/husband_wife_arguments.git
    cd husband_wife_arguments
+=======
+No starter code is provided. Start from scratch!
+>>>>>>> 87ab371ac2e431dce1f1943a68f8c98317287561
